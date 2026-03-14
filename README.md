@@ -93,7 +93,7 @@ This is a simple static HTML website. To view it:
    ```bash
    git clone https://github.com/aldennoronha2228/Demo.git
    ```
-2. Open `totalcare-v5-final.html` in any modern web browser.
+2. Open `index.html` in any modern web browser.
 
 No build tools or server setup required!
 
